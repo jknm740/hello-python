@@ -1,5 +1,6 @@
 {
     "python.defaultInterpreterPath": "C:\\Users\\14456\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
     "files.encoding": "utf8",
-    "files.autoGuessEncoding": false
+    "files.autoGuessEncoding": false,
+    "terminal.integrated.cwd": "${workspaceFolder}"
 }
