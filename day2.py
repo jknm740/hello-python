@@ -70,3 +70,4 @@ while True:
         else:
             print("  能猜中就行。下次试试每次猜中间数。")
         break
+# 这行只在 try-out 分支上存在
